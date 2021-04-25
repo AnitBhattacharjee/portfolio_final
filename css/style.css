@@ -177,3 +177,14 @@ header{
 		color: rgb(226,226,226);
 
 }
+.see{
+	font-size: 30px;
+	color: rgb(226,226,226,0%);
+	display: block;
+}
+.text{
+		display: flex;
+  color: #FFFF38;
+  font-size: 20px;
+
+}
