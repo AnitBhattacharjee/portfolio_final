@@ -117,7 +117,7 @@ header{
 	min-height: 8vh;
 	  border-radius: .5em;
 
-	background-color: #5D4954;
+	background-color: rgb(93,73,84,50%) ;
 }
 .nav-links{
 	padding: 0px;
@@ -174,7 +174,7 @@ header{
 
 }
 .see{
-	font-size: 70px;
+	font-size: 60px;
 	color: rgb(0,0,0,0%);
 	display: block;
 }
