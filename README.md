@@ -1,1 +1,3 @@
-LINK: https://github.com/AnitBhattacharjee/portfolio_final
+MY repo: https://anitbhattacharjee.github.io/portfolio_final/
+
+Link:https://anitbhattacharjee.github.io/portfolio_final/
